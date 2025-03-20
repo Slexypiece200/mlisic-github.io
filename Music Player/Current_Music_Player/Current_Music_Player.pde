@@ -6,6 +6,7 @@
 void setup() {
 //fullscreen();
   println(displayWidth, displayHeight);
+  rect();
 }
 //
 void draw() {}
